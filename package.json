@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "truffle": "^5.9.4",
+    "web3": "^4.0.1"
+  }
+}
